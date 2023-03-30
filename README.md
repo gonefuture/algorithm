@@ -1,2 +1,2 @@
 # algorithm
-a project Record algorithm learning
+A project to record  learning algorithms.
